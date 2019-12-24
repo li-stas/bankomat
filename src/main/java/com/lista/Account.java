@@ -2,7 +2,6 @@ package com.lista;
 
 
 public class Account {
-
     private int nSumAcc;
 
     public Account(int nSumAcc) {

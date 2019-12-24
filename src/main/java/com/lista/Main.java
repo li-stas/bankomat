@@ -2,7 +2,6 @@ package com.lista;
 
 
 public class Main {
-
     public static void main(String[] args) {
         int start = 100;
         int end;

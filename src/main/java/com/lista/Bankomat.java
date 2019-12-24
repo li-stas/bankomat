@@ -34,6 +34,7 @@ public class Bankomat extends Thread {
                 }
             }
         } else {
+
             // снимается 110 единиц с паузой 5
             for (int i = 0; i < 110; i++) {
                 // цикл паузы, остатка <= 0
